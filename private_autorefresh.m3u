@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhmzjj310144/migu-sports/main/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+# 咪咕体育直播源 | 自动刷新时间: 2026-05-10 11:23:27
+# 频道总数: 0
