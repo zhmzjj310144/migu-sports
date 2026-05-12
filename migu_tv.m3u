@@ -1,0 +1,486 @@
+#EXTM3U x-tvg-url="http://localhost:1234/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV1综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV2财经
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV3综艺
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV4中文国际
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV5体育
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV5+体育赛事
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV6电影
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV7国防军事
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV8电视剧
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV9纪录
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV10科教
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV11戏曲
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV12社会与法
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV13新闻
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV14少儿
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV15音乐
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV17农业农村
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV4欧洲
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV4美洲
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN外语纪录
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN阿拉伯语
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN西班牙语
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN法语
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN俄语
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",老故事
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",发现之旅
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",中学生
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",东方卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",广东卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",北京卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",辽宁卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",河北卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江西卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",河南卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",陕西卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",大湾区卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",湖北卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",吉林卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",青海卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",东南卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海南卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海峡卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",中国农林卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",兵团卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",宁夏卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",重庆卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",三沙卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",上海新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",上视东方影视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",上海第一财经
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",南京新闻综合频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",南京教科频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",南京十八频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",体育休闲频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏城市频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏国际
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏教育
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏影视频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏综艺频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",公共新闻频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",盐城新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",淮安新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",泰州新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",连云港新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",宿迁新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",徐州新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",优漫卡通频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江阴新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",南通新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",宜兴新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",溧水新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",陕西银龄频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",陕西都市青春频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",陕西秦腔频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",陕西新闻资讯频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",财富天下
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",镇江新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海南广播电视总台新闻频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海南广播电视总台自贸频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海南广播电视总台社会与法频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海南广播电视总台文旅频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",海南广播电视总台少儿频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",赛事最经典
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",体坛名栏汇
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",四海钓鱼
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",陕西体育休闲频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",24小时城市联赛轮播台
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",武术世界
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",快乐垂钓
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",经典香港电影
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",抗战经典影片
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",新片放映厅
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHC影迷电影
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHC动作电影
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHC家庭影院
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",和美乡途轮播台
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",南方影视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",中国航天“逆袭”之路
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",中国天气
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CETV1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CETV2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CETV4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",山东教育
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道01高清
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",熊猫频道10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",最强综艺趴
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",嘉佳卡通
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",经典动画大集合
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",新动漫
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",新动力量创一流
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",中华特产
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",环球旅游
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",梨园频道
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",意甲 帕尔马VS罗马 全场回放（鲁靖明、李彦） 23:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 越南U17VS韩国U17 全场回放（涂远） 23:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 皇家奥维耶多VS赫塔菲 全场回放（孙雨轩） 00:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 阿联酋U17VS也门U17 全场回放（乔迁） 00:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 印度U17VS乌兹别克斯坦U17 全场回放（王子睿） 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",德甲 美因茨VS柏林联 全场回放（李霄） 01:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",意甲 AC米兰VS亚特兰大 全场回放（石庆圣、李彦） 02:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 摩纳哥VS里尔 全场回放（涂远） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 昂热VS斯特拉斯堡 全场回放（李永熙） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 欧塞尔VS尼斯 全场回放（盛斌） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 图卢兹VS里昂 全场回放（张天翼） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 勒阿弗尔VS马赛 全场回放（乔迁） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 巴黎圣日耳曼VS布雷斯特 全场回放（鹿中原、王宇） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 巴塞罗那VS皇家马德里 全场回放（张昊泽、李欣、李子琪） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 巴塞罗那VS皇家马德里 全场回放（刘畅、贺宇） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 梅斯VS洛里昂 全场回放（刘一臻） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",法甲 雷恩VS巴黎FC 全场回放（邵煊） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 76人VS尼克斯 全场回放（姜帆、季孟年、拜月宁） 03:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 76人VS尼克斯 全场回放（英文原声） 03:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 Zuffa拳击第6期全场回放（赛场原声） 06:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 Zuffa拳击第6期全场回放（英文原声） 06:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 全场回放（李威蓄） 06:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 森林狼VS马刺 全场回放（杨健、李根、闫宇峰、小七） 07:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 森林狼VS马刺 全场回放（王晓晨） 07:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 森林狼VS马刺 全场回放（英文原声） 07:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 浙江稠州银行103-85长沙勇胜 全场回放（赛场原声） 10:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 浙江广厦87-75苏科雄狮 全场回放（赛场原声） 13:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 上海久事84-92江苏肯帝亚 全场回放（赛场原声） 13:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 新疆广汇67-78深圳新世纪 全场回放（赛场原声） 15:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 北京首钢94-69广东宏远 全场回放（赛场原声） 15:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】普利斯科娃0-2莱巴金娜 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】大坂直美0-2斯瓦泰克（赛场原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】高芙2-1约维奇（赛场原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】斯维托丽娜2-0巴图科娃（赛场原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】科斯蒂亚2-0诺斯科娃（赛场原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】科斯蒂亚2-0诺斯科娃（英文原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】斯维托丽娜2-0巴图科娃（英文原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】普利斯科娃0-2莱巴金娜（英文原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】高芙2-1约维奇（英文原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 斯瓦泰克完胜 莱巴金娜直落两盘 【回放】大坂直美0-2斯瓦泰克（英文原声） 17:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 龙狮青年83-79四川锦城 全场回放（赛场原声） 18:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA经典赛事 NBA季后赛精彩重播：马刺 vs 森林狼 G4 全场回放（杨健、李根、闫宇峰、小七） 18:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",伦敦团体世乒赛 刘国正、侯英超、周泽昊复盘世乒赛 全场回放（刘国正、侯英超、周泽昊） 19:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JCK 场场硬菜13场比赛11场终结观赏性拉满 比拉力VS赛里克努尔 18:50
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 南京同曦90-84青岛国信海天 全场回放（赛场原声） 19:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 天津荣钢111-92山西汾酒 全场回放（赛场原声） 20:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",意甲 那不勒斯VS博洛尼亚 全场回放（石庆圣） 02:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超 托特纳姆热刺VS利兹联 全场回放（娄一晨、刘越、孙蕊） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超 托特纳姆热刺VS利兹联 全场回放（江忠德） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 巴列卡诺VS吉罗纳 全场回放（周楚雄） 02:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 骑士VS活塞 庄宁宇 张兆旭 徐咏 07:40
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 骑士VS活塞 大史 07:55
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 骑士VS活塞 英文原声 07:55
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 骑士VS活塞 智能字幕 07:55
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国艺术体操锦标赛 高光不断！全能与单项决赛陆续开战 3D全真视频 09:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 吴安仪、白雨露首日亮相 1号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 吴安仪、白雨露首日亮相 2号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 吴安仪、白雨露首日亮相 3号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 吴安仪、白雨露首日亮相 6号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 董天尧冲击正赛！新组合揭幕战亮相 2号场地 10:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 董天尧冲击正赛！新组合揭幕战亮相 1号场地 10:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 董天尧冲击正赛！新组合揭幕战亮相 3号场地 10:10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 董天尧冲击正赛！新组合揭幕战亮相 4号场地 10:10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 湖人VS雷霆 杨健 曾令旭 李根 10:10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 湖人VS雷霆 郑泽鹏 10:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 湖人VS雷霆 莫俊祺 10:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 湖人VS雷霆 洪荒 10:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 湖人VS雷霆 英文原声 10:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBA 湖人VS雷霆 智能字幕 10:25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 长沙勇胜vs广东宏远 清流播出 13:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 苏科雄狮vs四川锦城 清流播出 13:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 浙江稠州银行vs江苏肯帝亚 清流播出 15:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 浙江广厦vs深圳新世纪 清流播出 15:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 上海久事vs青岛国信海天 清流播出 18:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 新疆广汇vs山西汾酒 清流播出 18:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",伦敦团体世乒赛 侯英超、程靖淇、徐晨皓与周冠达复盘世乒赛 侯英超 程靖淇 徐晨皓 19:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 冲四强！奥斯塔彭科率先出战 赛场原声 19:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA 冲四强！奥斯塔彭科率先出战 英文原声 19:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBA 北京北汽VS广东东阳光 图文直播 19:35
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 北京首钢vs南京同曦 清流播出 20:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 龙狮青年vs天津荣钢 清流播出 20:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 中国U17VS卡塔尔U17 张昊泽 王宇 23:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 中国U17VS卡塔尔U17 赛场原声 23:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 日本U17VS印度尼西亚U17 鹿中原 23:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 日本U17VS印度尼西亚U17 赛场原声 23:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 塞尔塔VS莱万特 梁祥宇 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 塞尔塔VS莱万特 赛场原声 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 泰国U17VS缅甸U17 吴子越 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 泰国U17VS缅甸U17 赛场原声 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 沙特阿拉伯U17VS塔吉克斯坦U17 张天翼 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",U17亚洲杯 沙特阿拉伯U17VS塔吉克斯坦U17 赛场原声 00:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 皇家贝蒂斯VS埃尔切 兰子非 01:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 皇家贝蒂斯VS埃尔切 赛场原声 01:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 皇家贝蒂斯VS埃尔切 兰子非 01:45
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 奥萨苏纳VS马德里竞技 孙雨轩 贺宇 03:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 奥萨苏纳VS马德里竞技 赛场原声 03:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",西甲 奥萨苏纳VS马德里竞技 孙雨轩 贺宇 03:15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",咪咕体育日报 undefined 咪咕体育日报 第108期 08:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国艺术体操锦标赛 收官日对决！各类重磅奖项将揭晓 3D全真视频 09:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 世界女子斯诺克锦标赛小组赛Day2 1号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 世界女子斯诺克锦标赛小组赛Day2 2号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 世界女子斯诺克锦标赛小组赛Day2 3号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",斯诺克 世界女子斯诺克锦标赛小组赛Day2 6号桌 09:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 泰国羽毛球公开赛第二日 1号场地 10:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 泰国羽毛球公开赛第二日 2号场地 10:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 泰国羽毛球公开赛第二日 3号场地 10:10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BWF 泰国羽毛球公开赛第二日 4号场地 10:10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 江苏肯帝亚vs青岛国信海天 清流播出 13:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 深圳新世纪vs山西汾酒 清流播出 13:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 长沙勇胜vs南京同曦 清流播出 15:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 苏科雄狮vs天津荣钢 清流播出 15:30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 上海久事vs北京首钢 清流播出 18:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 浙江广厦vs四川锦城 清流播出 18:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA WTA罗马站1/4决赛 赛场原声 19:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WTA WTA罗马站1/4决赛 英文原声 19:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBA 浙江浙商证券VS山西汾酒 图文直播 19:35
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 浙江稠州银行vs广东宏远 清流播出 20:00
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",全国青年篮球联赛 新疆广汇vs龙狮青年 清流播出 20:00
+
