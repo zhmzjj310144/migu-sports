@@ -1,23 +1,23 @@
 #EXTM3U
 #PLAYLIST: Migu TV
 
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第二轮 2号桌 16:00
+#EXTINF:-1 tvg-id="单打资格赛第二轮" tvg-name="WTT 单打资格赛第二轮 2号桌 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第二轮 2号桌 16:00
 http://localhost:1234/965047753
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第二轮 3号桌 16:00
+#EXTINF:-1 tvg-id="单打资格赛第二轮" tvg-name="WTT 单打资格赛第二轮 3号桌 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第二轮 3号桌 16:00
 http://localhost:1234/965047779
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第二轮 4号桌 16:00
+#EXTINF:-1 tvg-id="单打资格赛第二轮" tvg-name="WTT 单打资格赛第二轮 4号桌 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第二轮 4号桌 16:00
 http://localhost:1234/965047805
-#EXTINF:-1 group-title="其他频道",CBA 浙江浙商证券VS上海久事 图文直播 19:35
-http://flvyxpull2mgsplive.miguvideo.com:80/mglive/mgss081_54.flv?msisdn=627d3238bbc1949077dbc42089c9791e&mdspid=&spid=800033&netType=0&sid=7510488153&pid=2028597139&timestamp=20260601090426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964984763&ParentNodeID=-99&assertID=7510488153&client_ip=175.15.157.254&SecurityKey=20260601090426&promotionId=&mvid=7510243742&mcid=500020&mpid=120000578315&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c5e681988a3f30a02ce15193bdb0a677&sv=10004&ct=android
-#EXTINF:-1 group-title="其他频道",土伦杯 中国U19VS民主刚果U23 张昊泽 王宇 20:45
-http://flvwspull2mgsplive.miguvideo.com:80/mglive/vivid25_54.flv?msisdn=627d3238bbc1949077dbc42089c9791e&mdspid=&spid=800033&netType=0&sid=7510490407&pid=2028597139&timestamp=20260601090428&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965068668&ParentNodeID=-99&assertID=7510490407&client_ip=175.15.157.254&SecurityKey=20260601090428&promotionId=&mvid=7510244869&mcid=500020&mpid=120000578936&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d83ccb7ae8f22878150b782a052f50a6&sv=10004&ct=android
-#EXTINF:-1 group-title="其他频道",土伦杯 中国U19VS民主刚果U23 赛场原声 20:45
+#EXTINF:-1 tvg-id="浙江浙商证券VS上海久事" tvg-name="CBA 浙江浙商证券VS上海久事 图文直播 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天06-02",CBA 浙江浙商证券VS上海久事 图文直播 19:35
+http://gslbflvmgsplive.miguvideo.com/mglive/mgss081_54.flv?msisdn=627d3238bbc1949077dbc42089c9791e&mdspid=&spid=800033&netType=0&sid=7510488153&pid=2028597139&timestamp=20260601090426&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964984763&ParentNodeID=-99&assertID=7510488153&client_ip=175.15.157.254&SecurityKey=20260601090426&promotionId=&mvid=7510243742&mcid=500020&mpid=120000578315&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=75ee1ab38b607c4547b85bb912aae961&ddCalcu=1765v9eaeexa1aaa2b1398bbb65087bc7445&sv=10004&ct=android
+#EXTINF:-1 tvg-id="中国U19VS民主刚果U23" tvg-name="土伦杯 中国U19VS民主刚果U23 张昊泽 王宇 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-明天06-02",土伦杯 中国U19VS民主刚果U23 张昊泽 王宇 20:45
+http://gslbflvmgsplive.miguvideo.com/mglive/vivid25_54.flv?msisdn=627d3238bbc1949077dbc42089c9791e&mdspid=&spid=800033&netType=0&sid=7510490407&pid=2028597139&timestamp=20260601090428&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965068668&ParentNodeID=-99&assertID=7510490407&client_ip=175.15.157.254&SecurityKey=20260601090428&promotionId=&mvid=7510244869&mcid=500020&mpid=120000578936&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=39a9735be1ef0b9628b87dce53af5bfd&ddCalcu=d3f9vbaa59wf7aa3355beec1de7f80bb8926&sv=10004&ct=android
+#EXTINF:-1 tvg-id="中国U19VS民主刚果U23" tvg-name="土伦杯 中国U19VS民主刚果U23 赛场原声 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-明天06-02",土伦杯 中国U19VS民主刚果U23 赛场原声 20:45
 http://localhost:1234/965068672
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第三轮 1号桌 23:00
+#EXTINF:-1 tvg-id="单打资格赛第三轮" tvg-name="WTT 单打资格赛第三轮 1号桌 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第三轮 1号桌 23:00
 http://localhost:1234/965047818
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第三轮 2号桌 23:00
+#EXTINF:-1 tvg-id="单打资格赛第三轮" tvg-name="WTT 单打资格赛第三轮 2号桌 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第三轮 2号桌 23:00
 http://localhost:1234/965047829
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第三轮 3号桌 23:00
+#EXTINF:-1 tvg-id="单打资格赛第三轮" tvg-name="WTT 单打资格赛第三轮 3号桌 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第三轮 3号桌 23:00
 http://localhost:1234/965047840
-#EXTINF:-1 group-title="其他频道",WTT 单打资格赛第三轮 4号桌 23:00
+#EXTINF:-1 tvg-id="单打资格赛第三轮" tvg-name="WTT 单打资格赛第三轮 4号桌 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天06-02",WTT 单打资格赛第三轮 4号桌 23:00
 http://localhost:1234/965047855
